@@ -384,7 +384,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ## =� Contact & Attribution
 
-**Student**: Muhammad Nazrullaail Lee
+**Student**: Mohammed Ali Mohammed Manazir (Manazir)
 **Institution**: Informatics Institute of Technology (IIT), Sri Lanka
 **Placement Year**: 2025
 **Project**: GX Coin Protocol - Productivity-Based Cryptocurrency
