@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\January-2026\\\\week-01\"\" 2>/dev/null || echo \"Directory does not exist \")"
+    ]
+  }
+}
