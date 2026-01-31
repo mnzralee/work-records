@@ -1,7 +1,16 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls -la \"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\January-2026\\\\week-01\"\" 2>/dev/null || echo \"Directory does not exist \")"
+      "Bash(ls -la \"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\January-2026\\\\week-01\"\" 2>/dev/null || echo \"Directory does not exist \")",
+      "Bash(npm --version)",
+      "Bash(winget --version:*)",
+      "Bash(winget install:*)",
+      "Bash(\"/c/Users/HP/AppData/Local/Pandoc/pandoc.exe\" \"e:/IIT/Placement Year/work-records/Report/Log_report_nov-2025-jan-2026.md\" -o \"e:/IIT/Placement Year/work-records/Report/Log_report_nov-2025-jan-2026.docx\" --from=markdown --to=docx)",
+      "Bash(\"/c/Users/HP/AppData/Local/Pandoc/pandoc.exe\" \"e:/IIT/Placement Year/work-records/Report/Log_report_nov-2025-jan-2026.md\" -o \"e:/IIT/Placement Year/work-records/Report/Log_report_nov-2025-jan-2026_v2.docx\" --from=markdown --to=docx)",
+      "Bash(pandoc:*)",
+      "Bash(ls -la \"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\Report\"\"*.docx 2>/dev/null || dir \"e:IITPlacement Yearwork-recordsReport*.docx \")",
+      "Bash(cmd /c \"dir \"\"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\Report\\\\*.docx\"\"\")",
+      "Bash(cmd /c \"cd /d \"\"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\Report\"\" && pandoc Log_report_nov-2025-jan-2026.md -o Log_report_nov-2025-jan-2026.docx --from markdown --to docx\")"
     ]
   }
 }
