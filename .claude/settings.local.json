@@ -10,7 +10,10 @@
       "Bash(pandoc:*)",
       "Bash(ls -la \"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\Report\"\"*.docx 2>/dev/null || dir \"e:IITPlacement Yearwork-recordsReport*.docx \")",
       "Bash(cmd /c \"dir \"\"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\Report\\\\*.docx\"\"\")",
-      "Bash(cmd /c \"cd /d \"\"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\Report\"\" && pandoc Log_report_nov-2025-jan-2026.md -o Log_report_nov-2025-jan-2026.docx --from markdown --to docx\")"
+      "Bash(cmd /c \"cd /d \"\"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\Report\"\" && pandoc Log_report_nov-2025-jan-2026.md -o Log_report_nov-2025-jan-2026.docx --from markdown --to docx\")",
+      "Bash(ls \"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\February-2026\"\" 2>nul || echo \"Directory does not exist yet \")",
+      "Bash(cd e:IITPlacement Yearwork-records)",
+      "Bash(python3:*)"
     ]
   }
 }
