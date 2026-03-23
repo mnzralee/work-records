@@ -170,6 +170,9 @@ Objective: [Single comprehensive sentence describing all goals for the day, star
 [Continue with 4-8 sections]
 
 Outcome: [Dense summary paragraph with specific metrics - files created, commits made, tests passed, features completed, bugs fixed. Quantify everything possible.]
+
+ACTIVITY NO. [ list of activity name and number based on IIT activities (Official IIT Activities List (26 Categories)) ]
+
 ```
 
 ### Style Rules for Sheet Format
@@ -197,6 +200,24 @@ Investigation revealed a 1000x magnitude error in the admin dashboard's token su
 [More sections...]
 
 Outcome: Three critical production issues resolved across four repositories with 47 commits. Supply display now correctly shows trillion-scale values with proper precision handling. Landing page restored to full visual fidelity under Tailwind CSS v4. Blockchain registration pipeline repaired by adding onchain status tracking during KYC approval, with data migration applied to existing approved users. All fixes verified through manual testing and browser automation.
+
+Activity No:
+2.1 Analyze current system
+2.2 Identify requirements and deficiencies of the existing system
+2.3 Specify requirements of the proposed system
+3.2 Design process outlines
+3.3 User Interfaces/User experience/HCI/Screen formats and layouts
+3.9 UI Planning
+4.2 Program code
+5.2 Integration
+8.4 Security
+9.1 Document and/or update documentation
+12.1 Project planning
+23.2 Implement DevOps practices
+23.5 Conduct code reviews
+23.6 Maintain version control
+25.1 Develop blockchain applications
+
 ```
 
 ---
