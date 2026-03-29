@@ -13,7 +13,9 @@
       "Bash(cmd /c \"cd /d \"\"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\Report\"\" && pandoc Log_report_nov-2025-jan-2026.md -o Log_report_nov-2025-jan-2026.docx --from markdown --to docx\")",
       "Bash(ls \"e:\\\\IIT\\\\Placement Year\\\\work-records\\\\February-2026\"\" 2>nul || echo \"Directory does not exist yet \")",
       "Bash(cd e:IITPlacement Yearwork-records)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(ls -la \"E:\\\\IIT\\\\Placement Year\\\\work-records\\\\.claude\"\" 2>&1 || echo \"Directory check failed \")",
+      "Bash(find /e/IIT/Placement Year/work-records/March-2026 -type f -name *.md)"
     ]
   }
 }
