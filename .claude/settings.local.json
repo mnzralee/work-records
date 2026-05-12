@@ -15,7 +15,17 @@
       "Bash(cd e:IITPlacement Yearwork-records)",
       "Bash(python3:*)",
       "Bash(ls -la \"E:\\\\IIT\\\\Placement Year\\\\work-records\\\\.claude\"\" 2>&1 || echo \"Directory check failed \")",
-      "Bash(find /e/IIT/Placement Year/work-records/March-2026 -type f -name *.md)"
+      "Bash(find /e/IIT/Placement Year/work-records/March-2026 -type f -name *.md)",
+      "Bash(ls -lh \"E:/IIT/Placement Year/work-records/March-2026/week-05/\"*.md \"E:/IIT/Placement Year/work-records/April-2026/week-01/\"*.md)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(winget list *)",
+      "Bash(where pandoc *)",
+      "Bash(pip show *)",
+      "Bash(pip install *)",
+      "Bash(python -c \"import pypandoc; pypandoc.convert_file\\(r'e:/IIT/Placement Year/work-records/Report/Log_report_feb-apr-2026.md', 'docx', outputfile=r'e:/IIT/Placement Year/work-records/Report/Log_report_feb-apr-2026.docx'\\); print\\('OK'\\)\")",
+      "Bash(python -c \"import pypandoc; pypandoc.convert_file\\(r'e:/IIT/Placement Year/work-records/Report/v2_Log_report_feb-april_2026.md', 'docx', outputfile=r'e:/IIT/Placement Year/work-records/Report/v2_Log_report_feb-april_2026.docx'\\); print\\('OK'\\)\")",
+      "Bash(awk 'NR>=697 && NR<=1655' \"E:/IIT/Placement Year/work-records/raw_workrecords/work-record-2026-04-23.md\")"
     ]
   }
 }
