@@ -3,8 +3,7 @@ scripts/sync-workrecord.sh
 nul
 
 # Personal documents (offers, contracts, etc.)
-GoodnessExchange_Offer.pdf
-*_Offer.pdf
+
 
 # Stray directories from accidental literal-tilde paths
 /~/
